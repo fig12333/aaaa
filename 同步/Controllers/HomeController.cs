@@ -26,5 +26,11 @@ namespace 同步.Controllers
 
             return View();
         }
+
+
+        public ActionResult Action()
+        {
+            return View();
+        }
     }
 }
